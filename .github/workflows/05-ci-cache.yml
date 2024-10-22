@@ -1,4 +1,4 @@
-name: 05 Maven Test Report
+name: 05 Maven Cache
 
 permissions:
   contents: read

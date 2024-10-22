@@ -1,4 +1,4 @@
-name: 05 Maven Test Report
+name: 06 Checkfile
 
 permissions:
   contents: read
